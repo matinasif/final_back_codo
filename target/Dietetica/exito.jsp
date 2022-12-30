@@ -6,11 +6,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Tarea Realizada</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
+    <section>
     <h2>Nuevo Cliente Registrado</h2>
     <p>Todo en orden</p>
     <a href="index.html">Volver</a>
+    </section>
 </body>
 </html>
